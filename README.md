@@ -6,9 +6,9 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="HTML" height="32" width="33" src="HTML.png">
-  <img align="center" alt="CSS" height="32" width="33" src="CSS.png">
-  <img align="center" alt="C" height="35" width="33" src="C.png">
-  <img align="center" alt="BASH" height="35" width="35" src="Bash.png">
-  <img align="center" alt="Python" height="35" width="33" src="Python.png">
+  <img align="center" alt="HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="BASH" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Python" height="35" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
