@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9c9c9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=464842&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=36fc00&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Draius!;Welcome+to+My+Profile+:%29;01000100+01110010+01100001+01101001+01110101+01110011)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/DraiusIK">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DraiusIK&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117%22%20alt=%22Matheus%20Maia%20Alvarez%20github%20stats"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DraiusIK&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraiusIK&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
   </a>
 </div>
@@ -19,4 +19,4 @@
   <img align="center" alt="Python" height="35" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9c9c9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=464842&height=120&section=footer"/>
