@@ -6,8 +6,9 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="">
-  <img align="center" alt="CSS" height="30" width="40" src="">
-  <img align="center" alt="BASH" height="30" width="40" src="">
-  <img align="center" alt="Python" height="30" width="40" src="">
+  <img align="center" alt="HTML" height="32" width="33" src="HTML.png">
+  <img align="center" alt="CSS" height="32" width="33" src="CSS.png">
+  <img align="center" alt="C" height="35" width="33" src="C.png">
+  <img align="center" alt="BASH" height="35" width="35" src="Bash.png">
+  <img align="center" alt="Python" height="35" width="33" src="Python.png">
 </div><br>
